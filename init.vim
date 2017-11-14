@@ -99,3 +99,4 @@ map <leader>f :CommandT<cr>
 
 " Junk for vim-workspace
 nnoremap <leader>s :ToggleWorkspace<CR>
+let g:workspace_autocreate=1
