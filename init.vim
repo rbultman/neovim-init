@@ -46,6 +46,9 @@ Plug 'tpope/vim-sensible'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 
+" Auto update tag file on save
+Plug 'craigemery/vim-autotag'
+
 call plug#end()
 
 filetype plugin indent on
