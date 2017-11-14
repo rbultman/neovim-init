@@ -1,5 +1,5 @@
 # neovim-init
-My init.rc for neovim
+My init.rc for [neovim](https://neovim.io/).
 
 ### Install
 
